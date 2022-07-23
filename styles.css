@@ -1,0 +1,97 @@
+h1 {
+    align-items: center;
+    background-color: aqua;
+    text-align: center;
+    margin:  2;
+    padding: 2;
+}
+li {
+    display: inline;
+  }
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+   /* background-color: #dddddd; */
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: #333; */
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+   /* color: white; */
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    
+    
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+     background-color: rgb(255, 117, 11); 
+  }
+  ul {
+    background-color: #f845ba;
+  }  
+  p {
+    text-align: center;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: auto;
+  }
+  .centerp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: auto;
+  }
+  .avtar {
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: auto;
+  }
+  footer {
+    text-align: center;
+    background-color: #f845ba;
+    margin: 0%;
+  }
+  h2{
+    text-align: center;
+    font-style: oblique;
+  }
+  .ceterdiv {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
